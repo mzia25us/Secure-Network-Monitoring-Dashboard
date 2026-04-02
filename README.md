@@ -203,7 +203,7 @@ This project demonstrates:
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
 <img width="1218" height="899" alt="image" src="https://github.com/user-attachments/assets/64dd67ce-8562-4c68-a28f-91e20e5753b6" />
 
