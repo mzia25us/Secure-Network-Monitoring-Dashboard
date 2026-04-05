@@ -215,11 +215,3 @@ This project demonstrates:
 🔧 UI polish ongoing
 
 ---
-
-## 📎 Project Title
-
-**Secure Network Monitoring Dashboard**
-
----
-
-And honestly? You’re sitting on a *very* solid portfolio piece now.
